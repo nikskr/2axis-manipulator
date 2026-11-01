@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="manipulator/manipulator.vcxproj" Id="0cc5077c-0ba9-4648-bb91-80eb829c27ac" />
+</Solution>
